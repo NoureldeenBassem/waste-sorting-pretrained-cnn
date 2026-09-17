@@ -1,0 +1,4 @@
+{
+  "img_size": 160,
+  "backbone": "mobilenet_v2"
+}
